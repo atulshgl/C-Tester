@@ -23,3 +23,5 @@ User Guide
 5. Enter the S.No. of the problem you want to test in the application.
 6. The application compares the output of your code with the pretests output.
 7. If the comparision is 100% it opens the submit page for the problem.
+
+NOTE: Supports python 2.7 only.
