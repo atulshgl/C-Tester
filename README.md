@@ -1,7 +1,7 @@
 C-Tester
 ========
 
-Test C/C++ code on the pretests for problems on codechef.com automatically and increases efficiency during contests.
+Tests C/C++ code on the pretests of problems on codechef.com automatically and increases efficiency during contests.
 
 ============
 Installation
