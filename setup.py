@@ -60,7 +60,3 @@ print "  |  Step 1 | --> | Step 2 | --> | Step 3 | --> | Step 4 |"
 print "   ---------       --------       --------       --------"
 print "  Getting the application ready"
 time.sleep(2)
-
-n=int(raw_input("Do you want to launch the application?(0/1)"))
-if n>0:
-    os.system("C:/Users/Atul/Desktop/C++TesterCodechef/C++Tester.py")
