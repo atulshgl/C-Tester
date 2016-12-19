@@ -25,3 +25,5 @@ User Guide
 7. If the comparision is 100% it opens the submit page for the problem.
 
 NOTE: Supports python 2.7 only. Check for libraries used in .py files.
+
+Youtube: https://www.youtube.com/watch?v=Mu8tu4DsgXg
